@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lexia+mono+trial&pause=1000&color=5CF716&width=435&lines=Accessability+and+Performance+is;Awesome" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lexia+mono+trial&pause=1000&color=5CF716&width=435&lines=Accessability+and+Performance;is+My+Priority." alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Frontend Developer..
