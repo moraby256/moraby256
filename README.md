@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Frontend Developer..
 - 👨‍💻 As a CS student, I explore and learn new things in my tech..
-- 💬 Ask me about my experience with JavaScript, SvelteJS, and TailwindCSS, or anything related to web development.
+- 💬 I'm interested in JavaScript, VueJS, and TailwindCSS.
 - ⚡ I'm enthusiast about Performance and Accessibility in web development.
 
 ### Connect with Me :
