@@ -11,8 +11,8 @@
 </p> 
 
 - 🏢 I'm a Frontend Developer..
-- 👨‍💻 As a CS student, I explore and learn new things in my tech..
-- 💬 I'm interested in JavaScript, VueJS, and TailwindCSS.
+- 👨‍💻 As a CS graduate, I explore and learn new things in my tech..
+- 💬 I'm interested in TypeScript, React, and TailwindCSS.
 - ⚡ I'm enthusiast about Performance and Accessibility in web development.
 
 ### Connect with Me :
